@@ -1,13 +1,13 @@
-let headers = document.querySelector('h1')
-headers.style.color = "blue"
+// let headers = document.querySelector('h1')
+// headers.style.color = "blue"
 
-let nheader = document.getElementById('contacts')
-nheader.style.color = "blue"
+// let nheader = document.getElementById('contacts')
+// nheader.style.color = "blue"
 
-function MyFunc(){
-    const testvar = 'testtesttest'
-    document.write(testvar)
-}
+// function MyFunc(){
+//     const testvar = 'testtesttest'
+//     document.write(testvar)
+// }
 
 // // Task 1
 // alert (158+2);
@@ -55,6 +55,7 @@ function MyFunc(){
 //         alert('Мы не знаем что Вам делать');
 // }
 
+// Задача с названием фильма
 function askFavoriteMovie() {
     var favoriteMovie = prompt("Введите ваш любимый фильм:");
 
